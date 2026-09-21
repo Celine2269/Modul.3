@@ -25,4 +25,5 @@ print(alder + 5 > antall_studenter)
 # 1. Stor og liten bokstav.
 # 2. == ser om verdiene er like, mens = definerer en variabel.
 # 3. Vil tro python regner ut (aritmetisk) først
-# 4. 
+# 4. Tror det er nyttig i mer avansert programmering med f.eks 
+# if-setninger, løkker og funksjoner
