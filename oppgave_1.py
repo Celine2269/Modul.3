@@ -28,8 +28,8 @@ print(type(hobbyer))
 
 # Refleksjon 
 # 1. Ja, jeg måtte flytte på variablene for å endre rekkefølge. 
-# Hvis jeg hadde skrevet print-kommandoene i en liste, kunne
-# jeg ha snudd rekkefølgen uten å flytte på variablene.
+# Python leser kommandoer fra toppen og ned. Og jeg kan ikke
+# noen kode som snur kommandoer. Vet man kan snu lister da.
 # 2. Stemmer med pensum. Python svarte 'str' (string), 
 # 'int' (integer), 'float' , 'bool' (boolean) og 'list'.
 # 3. Python trenger tydelig intstruksjoner på hva de forskjellige
